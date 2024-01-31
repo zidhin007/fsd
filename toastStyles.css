@@ -1,0 +1,17 @@
+/* Custom toast styles */
+
+/* Success toast style */
+.Toastify__toast--success {
+    background-color: #caddcf;
+  }
+  
+  /* Error toast style */
+  .Toastify__toast--error {
+    background-color: #dc3545;
+  }
+  
+  /* Warning toast style */
+  .Toastify__toast--warning {
+    background-color: #ffc107;
+  }
+  
